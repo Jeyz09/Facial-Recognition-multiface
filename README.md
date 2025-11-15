@@ -1,2 +1,1 @@
-# Facial-Recognition-multiface
-machine-learning
+# facial_recognition
